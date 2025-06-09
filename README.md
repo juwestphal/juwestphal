@@ -1,6 +1,6 @@
 ## Juliana Westphal
 I'm enthusiastic about learning new things, tackling challenges, and crafting amazing user experiences. 
-My tech stack includes JavaScript, Node.js, HTML5, CSS3 and I am always learning something new.
+My tech stack includes JavaScript, React.js, Node.js, HTML5, CSS3 and I am always learning something new.
 I'm soon to complete my higher education in Design and Technology for Web Applications at polytechnic ESMAD in Porto, Portugal.
 
 ### 🤖 Languages ​​and Technologies
